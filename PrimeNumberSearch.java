@@ -1,4 +1,4 @@
-public class MathPractice {
+public class PrimeNumberSearch {
 
     public static String numberToN(int x){
         if (x>0&&x<4){
